@@ -2,14 +2,13 @@
 
   <p><i>Designing and building AI systems to create meaningful impact.</i></p>
 
-  <div
-    style="
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 16px;
-    "
-  >
+  <div style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+  ">
+    
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiyseo&theme=synthwave&bg_color=2b213a&hide_border=true&langs_count=8&layout=compact&border_color=61dafb"
@@ -25,6 +24,7 @@
         alt="Solved.ac Profile"
       />
     </a>
+
   </div>
 
 </div>
