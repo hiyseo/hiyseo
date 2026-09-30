@@ -1,11 +1,11 @@
 <div align="center">
   <p><i>Designing and building AI systems to create meaningful impact.</i></p>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img
       width="390"
       align="left"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiyseo&theme=synthwave&bg_color=2b213a&hide_border=true&langs_count=8&layout=compact&border_color=61dafb"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=hiyseo&theme=synthwave&bg_color=2b213a&hide_border=true&langs_count=8&layout=compact"
     />
   </a>
 
@@ -13,8 +13,7 @@
     <img
       width="390"
       align="right"
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seo3167"
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seo3167"
     />
   </a>
-
 </div>
